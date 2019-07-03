@@ -1,0 +1,16 @@
+{
+  "name": "request-book-library",
+  "version": "1.0.0",
+  "description": "request book on library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "lahuman <lahuman@daum.net> (https://lahuman.github.io)",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "puppeteer": "^1.18.1"
+  }
+}
