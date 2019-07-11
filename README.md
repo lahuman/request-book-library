@@ -2,6 +2,10 @@
 
 <div markdown="0"><a href="https://github.com/lahuman/request-book-apply" class="btn btn-warning"> 기존 JAVA Source 바로가기</a></div>
 
+# 도서 등록이 월 5권으로 바뀌었다. 도서관 당이 아니라 전체 도서관이 5권이다. 이를 해결하기 위하여 멀티 계정으로 책을 등록 하도록 변경해보자!
+
+
+
 ## 프로그램 설계
 
 부천 시립 도서관에서 한달에 요청 할 수 있는 도서는 다음과 같다.

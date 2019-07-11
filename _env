@@ -1,2 +1,3 @@
-USER_ID=ID
-PASSWORD=PW
+IS_RASPBERRY=no
+USER_ID=['id1', 'id2']
+PASSWORD=['pw1', 'pw2']
